@@ -2215,7 +2215,7 @@ function ip2int(ip_string) {
 }
 
 function FindProxyForURL(url, host) {
-    if (host == "www.haosou.com") {
+    if (host == "so.com") {
         return "PROXY google.com:80";
     }
 
