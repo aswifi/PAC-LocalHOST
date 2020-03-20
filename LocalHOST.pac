@@ -361,6 +361,7 @@ var domains = {
   "curvefish.com": 1, 
   "cyberctm.com": 1, 
   "cyberghostvpn.com": 1, 
+  "doubibackup.com": 1,
   "d0z.net": 1, 
   "dabr.mobi": 1, 
   "dadazim.com": 1, 
