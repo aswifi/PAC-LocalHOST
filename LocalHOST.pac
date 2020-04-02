@@ -653,6 +653,7 @@ var domains = {
   "gunsamerica.com": 1, 
   "gyalwarinpoche.com": 1, 
   "gzone-anime.info": 1, 
+  "heroku.com": 1, 
   "h-china.org": 1, 
   "hacken.cc": 1, 
   "hdtvb.net": 1, 
