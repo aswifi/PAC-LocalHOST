@@ -639,6 +639,7 @@ var domains = {
   "googleplus.com": 1, 
   "googlesource.com": 1, 
   "googlevideo.com": 1, 
+  "*.googlevideo.com": 1,
   "gopetition.com": 1, 
   "gospelherald.com": 1, 
   "gotw.ca": 1, 
