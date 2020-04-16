@@ -653,6 +653,7 @@ var domains = {
   "greatfirewallofchina.org": 1, 
   "greatzhonghua.org": 1, 
   "gstatic.com": 1, 
+  "*.gstatic.com": 1, 
   "gtricks.com": 1, 
   "guishan.org": 1, 
   "gunsamerica.com": 1, 
