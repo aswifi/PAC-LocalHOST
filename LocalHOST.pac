@@ -1,6 +1,6 @@
 var proxy = "PROXY 127.0.0.1:1080;";
 
-var domains = {
+var rules = [
   "huaglad.com": 1,
   "slideshare.net": 1,
   "tumblr.com": 1,
